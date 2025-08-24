@@ -17,7 +17,7 @@ st.markdown(
     """
     <div style="background-color:#1f2937;padding:15px;border-radius:10px">
     <h1 style="color:white;text-align:center;">🤖 E.R.I.K.</h1>
-    <p style="color:white;text-align:center;">Exception Resources & Intelligence Kernel - Your AI Exam Companion</p>
+    <p style="color:white;text-align:center;">Exceptional Resources & Intelligence Kernel - Your AI Exam Companion</p>
     </div>
     """, unsafe_allow_html=True
 )
